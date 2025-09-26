@@ -1,5 +1,6 @@
 # Virtual environment
 venv/
+.venv/
 
 # Python cache
 __pycache__/
@@ -12,3 +13,9 @@ __pycache__/
 
 # Local data files
 catch_data.json
+
+# macOS system file
+.DS_Store
+
+# Discord backup codes and sensitive assets
+assets/discord_backup_codes.txt
