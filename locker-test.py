@@ -1,3 +1,4 @@
+# Simple testing file to check if bot is online.
 import os
 import discord
 from discord.ext import commands
